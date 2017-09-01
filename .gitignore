@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+Supprimerait .gitignore
+Supprimerait .idea/cassandra-docker.iml
+Supprimerait .idea/inspectionProfiles/
+Supprimerait .idea/modules.xml
+Supprimerait .idea/workspace.xml
+Supprimerait .idea/vcs.xml
