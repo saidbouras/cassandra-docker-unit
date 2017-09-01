@@ -1,4 +1,4 @@
-FROM cassandra:2.2
+FROM cassandra:3.0
 MAINTAINER Saïd Bouras <said.bouras@gmail.com>
 
 # Workaround for https://github.com/docker/docker/issues/6345
